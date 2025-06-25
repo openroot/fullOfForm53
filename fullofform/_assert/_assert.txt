@@ -150,34 +150,36 @@ All of you are looking physically fat and accept this fact only adding things ca
 
 **************************
 
-..	आमिष से हो.
-1.	आमिष मानते हो.
-2.	आमिष होते हो.
-3.	आमिष सोचते हो.
-4.	आमिष बोलते हो.
-5.	आमिष खाते हो.
-6.	आमिष जानते हो.
-7.	आमिष बनाते हो.
-8.	आमिष रहते हो.
-9.	आमिष देखते हो.
-10.	आमिष पहनते हो.
-11.	आमिष समझते हो.
-12.	आमिष लेते हो.
-13.	आमिष परिबार हो.
-14.	आमिष पालते हो.
-15.	आमिष ढूंढते हो.
-16.	आमिष सुनते हो.
-17.	आमिष चाहते हो.
-18.	
-19.	
-20.	
-21.	
-22.	
-23.	
-24.	
-25.	
-26.	
-::.	
+	18	α			:	β			.	γ			
+..	::	social		:	quark		.	from		-	आमिष से हो.
+1.	::	canvas		:	button		.	believe		-	आमिष मानते हो.
+2.	::	rope		:	split		.	are			-	आमिष होते हो.
+3.	::	reel		:	check		.	think		-	आमिष सोचते हो.
+4.	::	sugar		:	candy		.	speak		-	आमिष बोलते हो.
+5.	::	cyan		:	disk		.	eat			-	आमिष खाते हो.
+6.	::	sponge		:	gel			.	know		-	आमिष जानते हो.
+7.	::	top			:	gallery		.	make		-	आमिष बनाते हो.
+8.	::	skew		:	matrices	.	live		-	आमिष रहते हो.
+9.	::	flip		:	vertices	.	see			-	आमिष देखते हो.
+10.	::	edge		:	graphics	.	wear		-	आमिष पहनते हो.
+11.	::	lot			:	stamp		.	understand	-	आमिष समझते हो.
+12.	::	pencil		:	box			.	take		-	आमिष लेते हो.
+13.	::	tape		:	solid		.	family		-	आमिष परिबार हो.
+14.	::	sage		:	trade		.	raise		-	आमिष पालते हो.
+15.	::	taste		:	caret		.	search		-	आमिष ढूंढते हो.
+16.	::	side		:	instrument	.	listen		-	आमिष सुनते हो.
+17.	::	contract	:	business	.	want		-	आमिष चाहते हो.
+18.	::	small		:	screw		.	wish		-	आमिष मुताबिक हो.
+19.	::	big			:	utility		.	focus		-	आमिष केन्द्रित हो.
+20.	::	roam		:	winter		.	optic		-	आमिष संबंधी हो.
+21.	::	symmetry	:	spring		.	merit		-	आमिष बैधानिक हो.
+22.	::	positive	:	summer		.	concept		-	आमिष सैद्धांतिक हो.
+23.	::	negative	:	rain		.	deal		-	आमिष जीभ हो.
+24.	::	neutral		:	autumn		.	mail		-	आमिष कुल हो.
+25.	::	dessert		:	fall		.	mat			-	आमिष आकार हो.
+26.	::	wide		:	angle		.	hope		-	आमिष प्रणाली हो.
+::.	::	biometric	:	chromosome	.	binary		-	आमिष में हो.
+	R	ζ			:	ε			.	δ			
 
 **************************
 
